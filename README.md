@@ -7,7 +7,7 @@
 
 ## Preview
 http://htmlpreview.github.io/?https://github.com/Kwangjong/pong/blob/master/pong.html
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/pong.jpg)
+![alt text](https://raw.githubusercontent.com/Kwangjong/Pong/pong.png)
 
 
 ## Authors
