@@ -5,6 +5,7 @@
 - Player1 - up and down arrow
 - Player2 - 'w' and 's' key
 
+## Preview
 http://htmlpreview.github.io/?https://github.com/Kwangjong/pong/blob/master/pong.html
 
 ## Authors
