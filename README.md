@@ -1,9 +1,9 @@
 # pong
-2 Player pong in JavaScript.
+2 player pong in JavaScript.
 
 ## Control
-- Player1 - up and down arrow
-- Player2 - 'w' and 's' key
+- player1 - 'up' and 'down' key
+- player2 - 'w' and 's' key
 
 ## Preview
 http://htmlpreview.github.io/?https://github.com/Kwangjong/pong/blob/master/pong.html
